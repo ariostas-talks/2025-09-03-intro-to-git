@@ -81,7 +81,9 @@ It can have **branches** with different commits, and they can be merged, as we'l
 
 ## How `git` works
 
- <img src="https://raw.githubusercontent.com/ariostas-talks/2025-09-03-intro-to-git/refs/heads/main/images/DAG_example.png" alt="git dag" width="500">
+[This page](https://learngitbranching.js.org/?NODEMO) offers a nice visualization of how `git` works.
+
+ <img src="https://raw.githubusercontent.com/ariostas-talks/2025-09-03-intro-to-git/refs/heads/main/images/DAG_example.png" alt="git dag" width="400">
 
 [comment]: # (!!! data-auto-animate)
 
@@ -244,7 +246,7 @@ Merge the changes from another branch (the standard way).
 
 `git merge`
 
-This is what most people use, and it's the default option on GitHub. For complex projects, this can actually create a messy history, so I personally would recomment avoiding it.
+This is what most people use, and it's the default option on GitHub. For complex projects, this can actually create a messy history, so I personally would recommend avoiding it.
 
 [comment]: # (||| data-auto-animate)
 
