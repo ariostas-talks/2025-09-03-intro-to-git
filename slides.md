@@ -81,7 +81,7 @@ It can have **branches** with different commits, and they can be merged, as we'l
 
 ## How `git` works
 
- <img src="https://raw.githubusercontent.com/ariostas-talks/refs/heads/main/images/DAG_example.png" alt="git dag" width="500">
+ <img src="https://raw.githubusercontent.com/ariostas-talks/2025-09-03-intro-to-git/refs/heads/main/images/DAG_example.png" alt="git dag" width="500">
 
 [comment]: # (!!! data-auto-animate)
 
